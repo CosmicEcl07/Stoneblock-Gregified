@@ -4,3 +4,8 @@ logs/
 saves/
 options.txt
 usernamecache.json
+gtceu/prospection_cache
+minecraftinstance.json
+rhino.local.properties
+usercache.json
+.curseclient
